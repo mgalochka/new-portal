@@ -1,0 +1,36 @@
+    .newsItemWrapper {
+        
+    }
+    .titleItem {
+        font-size: 25px;
+        font-weight: 400;
+        border-left: 2px solid #004FEC;
+        padding-left: 25px;
+      
+    }
+    
+    .titleItem:hover{
+        background: #004FEC;
+        color:white;
+        cursor: pointer;
+    
+    }
+    .newsItem {
+        margin-bottom: 54px;
+        width: 350px;
+        height: 290px;
+        padding: 24px 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        
+    }
+    .bottomWrapper{
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 0px 0px 27px;
+        align-items: flex-end;
+    }
+    .titleSpan {
+        width: 300px;
+    }
