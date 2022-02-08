@@ -9,13 +9,13 @@ const Contact = () => (
     <div className="contactPage">
         <div className="info">
             <div className="phone">
-                <a href="tel:+79991234576" >+7 (999) 123 45 76</a>
+                <a href="tel:+79991234576" >+38 (095) 000 00 00</a>
             </div>
             <div className="name"> 
                 Галина <br/> Козак
             </div>
             <div className="mail">
-                <a href="mailto:mgalochka5@gmail.com" >mgalochka5@gmail.com</a>
+                <a href="mailto:mgalochka5@gmail.com" >mg5555@gmail.com</a>
             </div>
             <div className="position"> 
                 Frontend Developer

@@ -7,7 +7,7 @@ const Footer = () => {
         <div>
           Новостник <div className="smal"> Single Page Application</div>
         </div>
-        <div className="smal">Дипломный проект</div>
+        <div className="smal">Новостной проект</div>
         <div>
           <div className="smal"> Made by</div>
            Галина Козак</div>
